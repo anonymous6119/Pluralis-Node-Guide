@@ -116,8 +116,6 @@ python3 generate_script.py --use_docker \
 tail -f run.out
 ```
 
-- note - Healthy logs look like : INFO:hivemind.moe.server.runtime: Processed 51 batches in last 60 seconds:
-
 #### 13. Download `private.key` :
 
 - If you don't have direct file access, run :
