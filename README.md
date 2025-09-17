@@ -93,6 +93,7 @@ docker build . -t pluralis_node0
 
 - Replace `<HF_TOKEN>` and `<email>` with your details
 - Use Vast.ai external port for `--announce_port`
+- If Running Locally paste `49200` on `<external_port_from_vast>`
 
 ```
 python3 generate_script.py --use_docker \
