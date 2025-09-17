@@ -8,11 +8,10 @@
 
 ### Hardware Requirements :
 
-|------------------|----------------------------|
-| **CPU**          | 8++                        |
-| **RAM**          | 32++ GB                    |
-| **Disk**         | 100 GB+ NVME GB SDD        |
-| **GPU**          | 16GB Vram++                |
+* **CPU**   : 8++
+* **RAM**   : 32++ GB
+* **Disk**  : 100 GB+ NVME GB SDD
+* **GPU**   : 16GB Vram++
 
 #### Rent a Server on Vast : Skip If You Can Run Locally
 
