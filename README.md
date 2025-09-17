@@ -136,3 +136,5 @@ python3 -m http.server 8080
 - **You’re now contributing to Node0 training swarm** 🚀
 
 ---
+**Made with ❤️ by [Morsyxbt](https://x.com/morsyxbt)**
+---
