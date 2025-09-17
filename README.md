@@ -105,19 +105,19 @@ python3 generate_script.py --use_docker \
 - **When it asks questions, type n to skip unnecessary prompts**
 - **It will create start_server.sh.**
 
-#### 10. Start Node :
+#### 11. Start Node :
 ```
 ./start_server.sh
 ```
 
-#### 11. Check Logs :
+#### 12. Check Logs :
 ```
 tail -f run.out
 ```
 
 - note - Healthy logs look like : INFO:hivemind.moe.server.runtime: Processed 51 batches in last 60 seconds:
 
-#### 12. Download `private.key` :
+#### 13. Download `private.key` :
 
 - If you don't have direct file access, run :
 
