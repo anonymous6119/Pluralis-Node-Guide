@@ -69,6 +69,7 @@ sudo usermod -aG docker $USER
 
 - `Log out & back in, or run newgrp docker to apply immediately`
 
+---
 
 ### 7. Clone Node0 Repo :
 ```
